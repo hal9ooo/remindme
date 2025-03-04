@@ -1,6 +1,6 @@
-# Notes App - Android
+# RemindMe - Android
 
-A feature-rich note taking application for Android with categorization, prioritization, and reminder capabilities.
+A feature-rich note taking application for Android with categorization, prioritization, and reminder capabilities, adopting a minimalistic, nag-free approach.
 
 ## Features
 
